@@ -72,7 +72,7 @@ pets.each do |species, animals|
    end
    animals.clear
  end
-end
+
 
 end
 
