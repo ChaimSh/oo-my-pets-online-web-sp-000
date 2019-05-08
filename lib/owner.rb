@@ -73,7 +73,7 @@ pets.each do |species, animals|
    animals.clear
  end
 end
-    
+
 end
 
 def list_pets
